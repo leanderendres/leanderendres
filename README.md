@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @leanderendres.
 - 👀 I’m interested in coding and AI.
-- 🌱 I’m currently learning Java/JavaScript.
-- 💞️ I’m looking to collaborate on interesting projects.
+- 🌱 I’m currently learning @ otto.de
 - 📫 Reach me on Instagram: @leanderendi.
 
 <!---
